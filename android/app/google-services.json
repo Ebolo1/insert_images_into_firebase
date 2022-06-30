@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "211390202005",
+    "project_id": "ebolo1",
+    "storage_bucket": "ebolo1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:211390202005:android:f94b526737b010fd301b9c",
+        "android_client_info": {
+          "package_name": "com.ebolo1.insert_images_into_firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "211390202005-37mrnmverlk4b5cjb3tofifii3areqlo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDmJR19ia4PaOtIrb27VHd9HidcPfH2WcA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "211390202005-37mrnmverlk4b5cjb3tofifii3areqlo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
